@@ -1,2 +1,5 @@
 hola mundo
 probando añadir texto en info desde nano
+
+No entiendo nada, pero me encanta GIT!
+
